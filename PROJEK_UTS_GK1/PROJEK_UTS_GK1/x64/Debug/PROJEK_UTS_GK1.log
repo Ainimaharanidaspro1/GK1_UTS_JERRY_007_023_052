@@ -1,0 +1,15 @@
+﻿  PROJEK_UTS_GK1.cpp
+C:\Users\ASUS\source\repos\PROJEK_UTS_GK1\PROJEK_UTS_GK1\PROJEK_UTS_GK1.cpp(27,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PROJEK_UTS_GK1.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowSize referenced in function main
+PROJEK_UTS_GK1.obj : error LNK2019: unresolved external symbol __imp_glutInitDisplayMode referenced in function main
+PROJEK_UTS_GK1.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function main
+PROJEK_UTS_GK1.obj : error LNK2019: unresolved external symbol __imp_glutPostRedisplay referenced in function "void __cdecl keyboard(int,int,int)" (?keyboard@@YAXHHH@Z)
+PROJEK_UTS_GK1.obj : error LNK2019: unresolved external symbol __imp_glutTimerFunc referenced in function "void __cdecl update(int)" (?update@@YAXH@Z)
+PROJEK_UTS_GK1.obj : error LNK2019: unresolved external symbol __imp_glutSpecialFunc referenced in function main
+PROJEK_UTS_GK1.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function main
+PROJEK_UTS_GK1.obj : error LNK2019: unresolved external symbol __imp_glutGet referenced in function "void __cdecl keyboard(int,int,int)" (?keyboard@@YAXHHH@Z)
+PROJEK_UTS_GK1.obj : error LNK2019: unresolved external symbol __imp_glutSolidSphere referenced in function "void __cdecl drawArmsAndLegs(void)" (?drawArmsAndLegs@@YAXXZ)
+PROJEK_UTS_GK1.obj : error LNK2019: unresolved external symbol __imp___glutInitWithExit referenced in function glutInit_ATEXIT_HACK
+PROJEK_UTS_GK1.obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+freeglut.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\ASUS\source\repos\PROJEK_UTS_GK1\PROJEK_UTS_GK1\x64\Debug\PROJEK_UTS_GK1.exe : fatal error LNK1120: 11 unresolved externals
